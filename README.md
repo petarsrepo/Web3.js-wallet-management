@@ -1,4 +1,4 @@
-# Web3.js wallet management
+# Web3.js wallet management [![using with dotenv-vault](https://badge.dotenv.org/using.svg?r=1)](https://www.dotenv.org/r/github.com/motdotla/dotenv?r=1)
 
 A compilation of scripts to perform basic Web3 wallet management functions - create, check balance, encrypt private key to JSON, and decrypt private key to JSON.
 
